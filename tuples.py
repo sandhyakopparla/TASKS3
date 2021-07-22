@@ -3,7 +3,5 @@ print(pincodes)
 print(pincodes[1:4])
 new_tuple=sorted(pincodes)
 print(new_tuple)
-# new_tuple1=sorted((pincodes(reverse=true))
-# print(new_typle1)
 print(tuple(sorted(pincodes,reverse=True)))
 
